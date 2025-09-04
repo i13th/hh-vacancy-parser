@@ -1,0 +1,42 @@
+# 🔐 Переменные окружения.
+.env
+
+# 📄 Логи.
+*.log
+
+# 📊 Выгрузки Excel.
+output/
+*.xlsx
+*.csv
+
+# 🐍 Python кэш.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+
+# 🖥 IDE и редакторы.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 📦 Виртуальное окружение.
+venv/
+env/
+ENV/
