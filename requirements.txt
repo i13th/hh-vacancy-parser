@@ -1,7 +1,4 @@
-import requests
-import psycopg2
-import schedule
-import random
-import time
-import logging
-from dotenv import load_dotenv import os
+requests
+psycopg2-binary
+schedule
+python-dotenv
